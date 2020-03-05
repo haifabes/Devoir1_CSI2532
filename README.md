@@ -1,12 +1,33 @@
 # Devoir1_CSI2532
+## Haifa Besrour- 300102272
+A1.
+
+a.
+![student/supervisor](https://github.com/haifabes/Devoir1_CSI2532/blob/master/1a.PNG)
+
+b.
+![course/section](https://github.com/haifabes/Devoir1_CSI2532/blob/master/1b.PNG)
+
+c.
+![company](https://github.com/haifabes/Devoir1_CSI2532/blob/master/1c.PNG)
+
+
+A2.
+![CompanyBnB](https://github.com/haifabes/Devoir1_CSI2532/blob/master/ERdelivrable2.png)
 
 B1.
 1. Returns 2 columns; name with the name of users who use MS Word and their experience with the software 
+![](https://github.com/haifabes/Devoir1_CSI2532/blob/master/a.PNG)
 
 
+2.
+![](https://github.com/haifabes/Devoir1_CSI2532/blob/master/b.PNG)
 
+A3.
+a.
 
-2. 
+## Π(name)(σ(Adress='Ottawa' AND isAvailable='02-03-2020')(Office⋈Availability))
+
 
 
 
